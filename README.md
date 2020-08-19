@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://dfnk.repl.co/" target="__">my repl.it website</a>
+<a href="https://dfnk.repl.co/">my repl.it website</a>
