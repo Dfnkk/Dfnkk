@@ -8,9 +8,7 @@
 
 <br />
  
- <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/722498997364719658?logo=discord&style=for-the-badge" />
-  </a>
+
  
 <!--
 **Dfnkk/Dfnkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
