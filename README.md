@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://me.everyenothing.net/">me!</a>
+
 
 
 <br />
